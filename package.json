@@ -4,13 +4,13 @@
   "description": "Krypton - Bulma + Alpine JS ICO/Crypto Starter",
   "author": "cssninjaStudio",
   "license": "MIT",
-  "homepage": "https://cssninjastudio.github.io/krypton",
+  "homepage": "https://github.com/masterminds-kenya/FloUI.git",
   "bugs": {
-    "url": "https://github.com/cssninjaStudio/krypton/"
+    "url": "https://github.com/masterminds-kenya/FloUI.git"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:cssninjaStudio/krypton.git"
+    "url": "https://github.com/masterminds-kenya/FloUI.git"
   },
   "keywords": [
     "gulp",
