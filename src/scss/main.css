@@ -10630,7 +10630,7 @@ body {
 1. Index Hero and Navbar
 ========================================================================== */
 .dark-wrapper {
-  background: url(../img/bg/gradient-right-darker.png) repeat-y top right, #004c21;
+  background: url(../img/bg/gradient-right-darker.png), #004c21;
 }
 
 .hero.is-transparent, .section.is-transparent {
