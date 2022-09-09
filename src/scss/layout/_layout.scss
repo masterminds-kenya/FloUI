@@ -284,19 +284,19 @@ body {
 
     //Background colors
     &.is-dark {
-        background: #3c019e;
+        background: #019e35;
     }
 
     &.is-darker {
-        background: #320184;
+        background: #018428;
     }
 
     &.is-darkest {
-        background: #270068;
+        background: #006823;
     }
 
     &.is-end {
-        background: #1c004c;
+        background: #036b32;
     }
 
     //Background shapes
@@ -312,12 +312,12 @@ body {
 
 //Radial gradient background
 .has-big-gradient {
-    background: url(../img/bg/gradient-left.png) no-repeat top left, url(../img/bg/gradient-right.png) no-repeat top right, #320184;
+    background: url(../img/bg/gradient-left.png) , url(../img/bg/gradient-right.png), #01841d;
 }
 
 //Dark radial gradient background
 .has-big-dark-gradient {
-    background: url(../img/bg/gradient-left-darker.png) no-repeat top left, url(../img/bg/gradient-right-darker.png) no-repeat top right, #1c004c;
+    background: url(../img/bg/gradient-left-darker.png) , url(../img/bg/gradient-right-darker.png) , #004c14;
 }
 
 //CTA Spacing
